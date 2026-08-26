@@ -1,0 +1,65 @@
+path: C:/Users/Josef/source/repos/BahnsignalErkennung/GERALD/dataset
+train: images/train
+val: images/val
+
+names:
+  0: El_6
+  1: Hectometer_Sign
+  2: Hp_0_HV
+  3: Hp_0_Ks
+  4: Hp_0_Sh
+  5: Hp_1
+  6: Hp_2
+  7: ICE
+  8: Ks_1
+  9: Ks_2
+  10: LZB
+  11: Lf_2
+  12: Lf_3
+  13: Lf_6
+  14: Lf_7
+  15: Mast_Sign_WRW
+  16: Mast_Sign_WYWYW
+  17: Mast_Sign_Y_Triangle
+  18: Ne_1
+  19: Ne_2
+  20: Ne_3_1
+  21: Ne_3_2
+  22: Ne_3_3
+  23: Ne_3_4
+  24: Ne_3_5
+  25: Ne_4
+  26: Ne_5
+  27: Ne_6
+  28: Ne_7a
+  29: Ne_7b
+  30: Platform_Display
+  31: Platform_Text_Sign
+  32: Platform_Track_Sign
+  33: Platform_Warn_Sign
+  34: Ra_10
+  35: Ride_Indicator_1
+  36: Ride_Indicator_Off
+  37: Sh_0
+  38: Sh_1
+  39: Sh_2
+  40: Sign_Back
+  41: Signal_Back
+  42: Signal_Identifier_Sign
+  43: Signal_Invalid
+  44: Signal_Off
+  45: So_20_Left
+  46: So_20_Right
+  47: Traffic_Light
+  48: Traffic_Sign
+  49: Vr_0
+  50: Vr_1
+  51: Vr_2
+  52: Wn_1
+  53: Wn_2
+  54: Zs_2
+  55: Zs_2v
+  56: Zs_3
+  57: Zs_3v
+  58: Zs_6
+  59: Zs_Off
