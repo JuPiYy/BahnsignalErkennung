@@ -2,8 +2,9 @@ import cv2
 
 from ultralytics import YOLO
 
-from sahi import AutoDetectionModel
-from sahi.predict import get_sliced_prediction
+# Optional: SAHI für Slicing- und Inferenzfunktionen importieren
+# from sahi import AutoDetectionModel
+# from sahi.predict import get_sliced_prediction
 
 # 1. Trainiertes Modell laden
 # Ersetze 'best.pt' durch den Pfad zu deiner gespeicherten Modelldatei
