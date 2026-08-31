@@ -371,3 +371,4 @@ env/
 /gekuerzt.mp4
 /bahn_erkennung_output.mp4
 /best.pt
+/.env
