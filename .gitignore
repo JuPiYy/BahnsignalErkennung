@@ -372,3 +372,5 @@ env/
 /bahn_erkennung_output.mp4
 /best.pt
 /.env
+/Bahn Erkennung Output.mp4
+*.mp4
